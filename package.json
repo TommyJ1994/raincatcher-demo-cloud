@@ -28,7 +28,7 @@
     "fh-wfm-result": "0.1.2",
     "fh-wfm-simple-store": "0.1.2",
     "fh-wfm-sync": "0.1.1",
-    "fh-wfm-user": "0.5.0",
+    "fh-wfm-user": "git://github.com/feedhenry-raincatcher/raincatcher-user.git#3ec8a161cc83d4d21f4583fd8bb84f5a24c5e8fb",
     "fh-wfm-workflow": "0.2.0",
     "fh-wfm-workorder": "0.2.0",
     "http-status-codes": "1.0.6",
